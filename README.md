@@ -1,6 +1,6 @@
 # Balneabilidade
 
-Libertação de dados do Programa Água Azul. A sua operação está feita pelo **Instituto de Desenvolvimento Sustentável e Meio Ambiente do Estado do Rio Grande do Norte (IDEMA)**, **Instituto de Gestão das Águas do Estado do Rio Grande do Norte (IGARN)** e **Empresa de Pesquisa Agropecuária do Estado do Rio Grande do Norte (EMPARN)**, com o apoio técnico-científico da **Universidade Federal do Rio Grande do Norte (UFRN)**, da **Universidade Estadual do Rio Grande do Norte (UERN)** e do **Instituto Federal de Educação, Ciência e Tecnologia (IFRN)**.
+Libertação de dados do Programa Água Azul. A sua operação está feita pelo **[Instituto de Desenvolvimento Sustentável e Meio Ambiente do Estado do Rio Grande do Norte (IDEMA)](http://www.idema.rn.gov.br/)**, **[Instituto de Gestão das Águas do Estado do Rio Grande do Norte (IGARN)](http://igarn.rn.gov.br/)** e **[Empresa de Pesquisa Agropecuária do Estado do Rio Grande do Norte (EMPARN)](http://www.emparn.rn.gov.br)**, com o apoio técnico-científico da **[Universidade Federal do Rio Grande do Norte (UFRN)](https://ufrn.br/)**, da **[Universidade Estadual do Rio Grande do Norte (UERN)](http://portal.uern.br/)** e do **[Instituto Federal de Educação, Ciência e Tecnologia (IFRN)](http://portal.ifrn.edu.br/)**.
 
 Site Oficial: [http://programaaguaazul.ct.ufrn.br](http://programaaguaazul.ct.ufrn.br/)
 
