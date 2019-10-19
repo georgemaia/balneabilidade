@@ -12,6 +12,6 @@ Site Oficial: [http://programaaguaazul.ct.ufrn.br](http://programaaguaazul.ct.uf
 
 ## Referências
 
-[LIBERTANDO DADOS COM TABULA E ROWS](https://escoladedados.org/tutoriais/libertando-dados-com-tabula-e-rows/)
+[Libertando dados com Tabula e Rows](https://escoladedados.org/tutoriais/libertando-dados-com-tabula-e-rows/)
 
 [Balneabilidade Brasil](https://github.com/turicas/balneabilidade-brasil)
